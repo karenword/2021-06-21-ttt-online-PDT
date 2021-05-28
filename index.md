@@ -14,11 +14,11 @@ etherpad:             # optional: URL for the workshop Etherpad if there is one
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
-    address: "https://carpentries.zoom.us/j/FIXME"
+    address: "listed in your contact email"
 
-  - venue: "Euphoria University"
-    address: "Room A, 123 Forth Street, Blimingen, Euphoria"
-    latlng: "41.7901128,-87.6007318"
+  - venue: "The Carpentries"
+    address: "Online, Pacific Standard Time"
+    latlng: "38.5449,121.7405"
 
 ---
 
